@@ -12,5 +12,5 @@ The error was properly handled and the Core Location function was used to reflec
 
 
 
-https://github.com/dlwngh1367/Clima/assets/107776511/8b107f53-c43a-4d76-9a89-ba2d9f668212
+https://github.com/dlwngh1367/Clima/assets/107776511/97fe7ff7-057b-4347-b7e1-14377b358aa6
 
