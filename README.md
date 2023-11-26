@@ -14,5 +14,5 @@ Moreover, I added plists to handle Core Location manager in a pop-up message.
 
 
 
-https://github.com/dlwngh1367/Clima/assets/107776511/97fe7ff7-057b-4347-b7e1-14377b358aa6
+https://github.com/dlwngh1367/Clima/assets/107776511/1e0a9b34-4950-474f-877d-1196dc134810
 
