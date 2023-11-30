@@ -1,16 +1,14 @@
 # Clima
 
-This is a weather app that allows users to check real-time weather information.
-Once users open the app, it will ask users for permission to use location data.
-At the same time, it will fetch the location data base on user's latitude and longitude.
-If users enter the name of the city they want in the text field, press Enter or click the magnifier button, real-time weather information for that city will be updated.
-This app supports both default and dark mode, and depending on the mode, the icon and wallpaper change to suit the situation.
-To design the code efficiently, Delegate design patterns were used to increase efficiency, and to support this, I used the protocol, the extension, to support the viewController.
-In addition, I was able to write the code more simply using the anonymous feature which is Closure.
-I updated real-time weather information using open weather API and connected using URL session for networking.
-The JavaScript Object Notation (JSON) format was used, real-time weather information was decoded and used, and Computed properties were utilized to use real-time information more efficiently.
-The error was properly handled and the Core Location function was used to reflect the real-time location of the user.
-Moreover, I added plists to handle Core Location manager in a pop-up message.
+This is a weather app that enables users to check real-time weather information.
+Upon opening the app, it requests permission to use location data. Simultaneously, it fetches location data based on the user's latitude and longitude.
+If users input the desired city name in the text field, press Enter, or click the magnifier button, real-time weather information for that city is updated.
+The app supports both default and dark mode, with icons and wallpapers adapting to the chosen mode.
+To design the code efficiently, the Delegate design pattern is employed for increased efficiency. Additionally, protocols and extensions are utilized to support the viewController. The code is simplified using closures, taking advantage of the anonymous feature.
+Real-time weather information is updated through the Open Weather API, and networking is established using URL sessions.
+The JSON format is employed for decoding and utilizing real-time weather information, with computed properties optimizing its efficient use.
+Error handling is appropriately implemented, and the Core Location function reflects the user's real-time location.
+Furthermore, plists are added to manage Core Location manager in a pop-up message.
 
 
 
